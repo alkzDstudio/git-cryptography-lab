@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  Encoder.cpp
+d:\3curs\labs\cripto_lab_01\encoder.cpp(19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Cripto_lab_01.vcxproj -> D:\3curs\Labs\Cripto_lab_01\Debug\Cripto_lab_01.exe
